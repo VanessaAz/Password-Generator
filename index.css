@@ -104,6 +104,9 @@ input::-webkit-inner-spin-button {
 }
 
 @media (max-width: 575px){
+    html {
+        font-size: .5em;
+    }
     .password-section{
         flex-wrap: wrap;
     }
